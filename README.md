@@ -13,8 +13,7 @@ UserInput.java contains -
 5.	int getMenuChoice(): Displays the menu and returns the user's choice.
 
 
-Calculator.java
-Methods:
+Calculator.java that contains - 
 1.	add(int a, int b): Returns the sum of two integers.
 2.	subtract(int a, int b): Returns the difference of two integers.
 3.	multiply(int a, int b): Returns the product of two integers.
